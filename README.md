@@ -69,11 +69,6 @@
 - **구도**: `close-up`, `wide shot`, `bird's eye view`, `low angle`
 - **조명**: `golden hour`, `soft lighting`, `dramatic shadows`
 
-## 🤝 기여 방법
-1. Fork this repository
-2. 새로운 실험이나 학습 내용을 해당 폴더에 추가
-3. 명확한 설명과 함께 Pull Request 제출
-4. 이미지 파일은 적절한 크기로 최적화 후 업로드
 
 ## 🔗 유용한 링크
 
